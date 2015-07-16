@@ -1,0 +1,30 @@
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\UI.Consola\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\UI.Consola\bin\Debug\Negocio.dll
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\UI.Consola\bin\Debug\Data.Database.dll
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\UI.Consola\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\UI.Consola\bin\Debug\Negocio.pdb
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\UI.Consola\bin\Debug\Data.Database.pdb
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.exe
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.pdb
+C:\Users\LENI-ALUMNO\Documents\Visual Studio 2013\Projects\TP2Lab3\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\Users\LENI-ALUMNO\Documents\Visual Studio 2013\Projects\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.exe
+C:\Users\LENI-ALUMNO\Documents\Visual Studio 2013\Projects\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.pdb
+C:\Users\LENI-ALUMNO\Documents\Visual Studio 2013\Projects\TP2Lab3\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\LENI-ALUMNO\Documents\Visual Studio 2013\Projects\TP2Lab3\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\LENI-ALUMNO\Documents\Visual Studio 2013\Projects\TP2Lab3\UI.Consola\bin\Debug\Entidades.dll
+C:\Users\LENI-ALUMNO\Documents\Visual Studio 2013\Projects\TP2Lab3\UI.Consola\bin\Debug\Negocio.dll
+C:\Users\LENI-ALUMNO\Documents\Visual Studio 2013\Projects\TP2Lab3\UI.Consola\bin\Debug\Data.Database.dll
+C:\Users\LENI-ALUMNO\Documents\Visual Studio 2013\Projects\TP2Lab3\UI.Consola\bin\Debug\Entidades.pdb
+C:\Users\LENI-ALUMNO\Documents\Visual Studio 2013\Projects\TP2Lab3\UI.Consola\bin\Debug\Negocio.pdb
+C:\Users\LENI-ALUMNO\Documents\Visual Studio 2013\Projects\TP2Lab3\UI.Consola\bin\Debug\Data.Database.pdb
+C:\Users\LENI-ALUMNO\Documents\Visual Studio 2013\Projects\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+D:\Practica Visual Studio\TP2Lab3\UI.Consola\bin\Debug\UI.Consola.exe.config
+D:\Practica Visual Studio\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.exe
+D:\Practica Visual Studio\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.pdb
+C:\Users\MERSER\Desktop\TP2Lab3\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\Users\MERSER\Desktop\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.exe
+C:\Users\MERSER\Desktop\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.pdb

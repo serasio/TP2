@@ -1,0 +1,7 @@
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Data.Database\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Data.Database\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Data.Database\obj\Debug\Data.Database.pdb

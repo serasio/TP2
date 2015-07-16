@@ -1,0 +1,9 @@
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Negocio\bin\Debug\Data.Database.dll
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Negocio\bin\Debug\Data.Database.pdb
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Guada\Documents\Visual Studio 2013\Projects\TP2\TP2Lab3\Negocio\obj\Debug\Negocio.pdb
