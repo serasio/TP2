@@ -7,53 +7,68 @@ namespace Entidades
 {
     public class Materia : Entidad
     {
+        private int _IDEspecialidad;
+
+        public int IDEspecialidad
+        {
+            get { return _IDEspecialidad; }
+            set { _IDEspecialidad = value; }
+        }
+
+        private string _DescripcionPlanCarrera;
+
+        public string DescripcionPlanCarrera
+        {
+            get { return _DescripcionPlanCarrera; }
+            set { _DescripcionPlanCarrera = value; }
+        }
+
+        private string _DescripcionEspecialidad;
+
+        public string DescripcionEspecialidad
+        {
+            get { return _DescripcionEspecialidad; }
+            set { _DescripcionEspecialidad = value; }
+        }
+
         private string _Descripcion;
-        private int _HSSemanales;
-        private int _IDPlan;
-        private int _HSTotales;
 
         public string Descripcion
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _Descripcion; }
+            set { _Descripcion = value; }
         }
+
+        private int _HSSemanales;
 
         public int HSSemanales
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _HSSemanales; }
+            set { _HSSemanales = value; }
         }
 
-        public int HSTotales
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
-        }
+        private int _IDPlan;
 
         public int IDPlan
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _IDPlan; }
+            set { _IDPlan = value; }
+        }
+
+        private int _HSTotales;
+
+        public int HSTotales
+        {
+            get { return _HSTotales; }
+            set { _HSTotales = value; }
+        }
+
+        private string _DescripcionPlan;
+
+        public string DescripcionPlan
+        {
+            get { return _DescripcionPlan; }
+            set { _DescripcionPlan = value; }
         }
     }
 }

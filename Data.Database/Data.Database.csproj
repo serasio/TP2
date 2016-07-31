@@ -39,11 +39,21 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Adapter.cs" />
+    <Compile Include="AluInscripcionAdapter.cs" />
+    <Compile Include="ComisionAdapter.cs" />
+    <Compile Include="CursoAdapter.cs" />
+    <Compile Include="DocCursoAdapter.cs" />
+    <Compile Include="EspecialidadAdapter.cs" />
+    <Compile Include="MateriaAdapter.cs" />
+    <Compile Include="PersonaAdapter.cs" />
+    <Compile Include="PlanAdapter.cs" />
+    <Compile Include="ReporteAdapter.cs" />
     <Compile Include="UsuarioAdapter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

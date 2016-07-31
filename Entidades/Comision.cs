@@ -8,40 +8,45 @@ namespace Entidades
     public class Comision : Entidad
     {
         private int _AnioEspecialidad;
-        private string _Descripcion;
-        private int _IDPlan;
 
         public int AnioEspecialidad
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _AnioEspecialidad; }
+            set { _AnioEspecialidad = value; }
         }
+
+        private string _ComisionEspDesc;
+
+        public string ComisionEspDesc
+        {
+            get { return _ComisionEspDesc; }
+            set { _ComisionEspDesc = value; }
+        }
+
+        private string _Descripcion;
 
         public string Descripcion
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _Descripcion; }
+            set { _Descripcion = value; }
         }
+
+        private int _IDPlan;
 
         public int IDPlan
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _IDPlan; }
+            set { _IDPlan = value; }
         }
+
+
+        private string _PlanEspDescripcion;
+
+        public string PlanEspDescripcion
+        {
+            get { return _PlanEspDescripcion; }
+            set { _PlanEspDescripcion = value; }
+        }
+
     }
 }

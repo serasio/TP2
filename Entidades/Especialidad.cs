@@ -8,15 +8,12 @@ namespace Entidades
     public class Especialidad : Entidad
     {
         private string _Descripcion;
+
         public string Descripcion
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _Descripcion; }
+            set { _Descripcion = value; }
         }
+        
     }
 }

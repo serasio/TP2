@@ -10,15 +10,15 @@ namespace Entidades
     {
         public Entidad ()
         {
-            this.State= States.New;
+            this.State = States.Nuevo;
         }
-        private int _ID;
+        int _ID;
         public int ID
         {
             get { return _ID;}
             set { _ID = value; }
         }
-        private States _State;
+        States _State;
         public States State
         {
             get { return _State; }
@@ -26,10 +26,10 @@ namespace Entidades
         }
         public enum States
         {
-            Deleted,
-            New,
-            Modified,
-            Unmodified
+            Eliminado,
+            Nuevo,
+            Modificado,
+            NoModificado
         }
     }
 }

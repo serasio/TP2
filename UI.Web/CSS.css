@@ -1,0 +1,13 @@
+﻿*{font-family: sans-serif;  }
+
+hr{display:none;}
+
+ul.menu {width: 220px; list-style: none;
+ text-align: center; text-shadow: 2px 2px 4px red; padding:0;}
+
+ul.menu li {padding: 10px 0px; border: groove blue;
+border-width: 6px 6px 0px 6px; background-color: #F7FE2E;}
+
+ul.menu li:last-child { border-bottom: groove blue; border-bottom-width: 6px;}
+ul.menu li a:link, ul.menu li a:visited { text-decoration: none; color:black;}
+ul.menu li:hover {background-color: #FFD700;}

@@ -5,12 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Data.Database;
+using System.Windows.Forms;
+
 
 namespace Negocio
 {
     public class UsuarioLogic : Negocio
     {
-
         private UsuarioAdapter _UsuarioDatos;
 
         public UsuarioAdapter UsuarioDatos
@@ -28,19 +29,42 @@ namespace Negocio
             return UsuarioDatos.GetAll();
         }
 
-        public Entidades.Usuario GetOne(int ID)
+        public Usuario GetOne(int ID)
         {
             return UsuarioDatos.GetOne(ID);
+        }
+
+        public List<Usuario> GetOneAlumno(int ID)
+        {
+            return UsuarioDatos.GetOneAlumno(ID);
+        }
+
+        public Persona GetOnePersona(string usuario, string pass)
+        {
+            return UsuarioDatos.GetOnePersona(usuario, pass);
         }
 
         public void Delete(int ID)
         {
             UsuarioDatos.Delete(ID);
         }
-        public void Save (Entidades.Usuario usu)
+        public void Save(Usuario usu)
         {
             UsuarioDatos.Save(usu);
         }
+
+        public bool Buscar(string usuario, string pass)
+        {
+            return UsuarioDatos.Buscar(usuario, pass);
+        }
+
+        public string RecuperarPass(string usuario, string mail)
+        {
+            return UsuarioDatos.RecuperarPass(usuario,mail);
+        }
+        public void EnviarCorreo(string mail, string pass)
+        {
+            UsuarioDatos.EnviarCorreo(mail,pass);
+        }
     }
 }
- 

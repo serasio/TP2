@@ -7,29 +7,38 @@ namespace Entidades
 {
     public class Plan : Entidad
     {
+        string _DescEspecialidad;
+
+        public string DescEspecialidad
+        {
+            get { return _DescEspecialidad; }
+            set { _DescEspecialidad = value; }
+        }
+
+        private string _PlanEspecialidadDesc;
+
+        public string PlanEspecialidadDesc
+        {
+            get { return _PlanEspecialidadDesc; }
+            set { _PlanEspecialidadDesc = value; }
+        }
+        
         private string _Descripcion;
-        private int _IDEspecialidad;
 
         public string Descripcion
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _Descripcion; }
+            set { _Descripcion = value; }
         }
+
+
+        private int _IDEspecialidad;
 
         public int IDEspecialidad
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _IDEspecialidad; }
+            set { _IDEspecialidad = value; }
         }
+
     }
 }

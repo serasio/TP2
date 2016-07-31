@@ -28,3 +28,6 @@ D:\Practica Visual Studio\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.pdb
 C:\Users\MERSER\Desktop\TP2Lab3\UI.Consola\bin\Debug\UI.Consola.exe.config
 C:\Users\MERSER\Desktop\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.exe
 C:\Users\MERSER\Desktop\TP2Lab3\UI.Consola\obj\Debug\UI.Consola.pdb
+C:\Users\MERSER\Desktop\Nueva carpeta\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\Users\MERSER\Desktop\Nueva carpeta\UI.Consola\obj\Debug\UI.Consola.exe
+C:\Users\MERSER\Desktop\Nueva carpeta\UI.Consola\obj\Debug\UI.Consola.pdb

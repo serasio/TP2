@@ -8,52 +8,51 @@ namespace Entidades
     public class AlumnoInscripcion : Entidad
     {
         private string _Condicion;
-        private int _IDCurso;
-        private int _IDAlumno;
-        private int _Nota;
 
         public string Condicion
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _Condicion; }
+            set { _Condicion = value; }
         }
 
-        public int IDAlumno
+        private string _comisionMateriaAnio;
+
+        public string ComisionMateriaAnio
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _comisionMateriaAnio; }
+            set { _comisionMateriaAnio = value; }
         }
+
+        private string _aluNomYApe;
+
+        public string AluNomYApe
+        {
+            get { return _aluNomYApe; }
+            set { _aluNomYApe = value; }
+        }
+
+        private int _IDCurso;
 
         public int IDCurso
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _IDCurso; }
+            set { _IDCurso = value; }
         }
+
+        private int _IDAlumno;
+
+        public int IDAlumno
+        {
+            get { return _IDAlumno; }
+            set { _IDAlumno = value; }
+        }
+
+        private int _Nota;
 
         public int Nota
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-            set
-            {
-            }
+            get { return _Nota; }
+            set { _Nota = value; }
         }
     }
 }
